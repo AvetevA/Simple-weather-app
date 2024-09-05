@@ -1,7 +1,7 @@
 "use strict"
 
 
-const url = "http://api.weatherapi.com/v1/current.json?key=a29eae55f9f3458a859175450240509&q=";
+const url = "https://api.weatherapi.com/v1/current.json?key=a29eae55f9f3458a859175450240509&q=";
 const aqi = "&aqi=no";
 const button = document.querySelector("#but");
 const input = document.querySelector("#town");
